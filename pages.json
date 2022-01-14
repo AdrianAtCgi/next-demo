@@ -1,0 +1,20 @@
+[
+    {   
+        "id": "1",
+        "title" : "Home",
+        "description" : "Awesome Homepage",
+        "content" : "Home Page Content"
+    },
+    {
+        "id" : "2",
+        "title" : "About",
+        "description" : "Awesome About Page",
+        "content" : "About Page Content"
+    },
+    {
+        "id" : "3",
+        "title" : "Impressum",
+        "description" : "Hier erreichen sie uns: 0129321912",
+        "content" : "Impressum Content"
+    }
+]
